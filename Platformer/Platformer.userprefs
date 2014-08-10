@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\scripts\Platform.cs" Line="13" Column="21" />
+      <File FileName="Assets\scripts\PlayerController.cs" Line="140" Column="21" />
+      <File FileName="Assets\scripts\PlayerPhysics.cs" Line="138" Column="21" />
+      <File FileName="Assets\scripts\GameCamera.cs" Line="36" Column="50" />
+      <File FileName="Assets\scripts\GameManager.cs" Line="12" Column="35" />
+      <File FileName="Assets\scripts\Skull.cs" Line="11" Column="44" />
+      <File FileName="Assets\scripts\Entity.cs" Line="21" Column="9" />
+      <File FileName="Assets\scripts\BoxGizmos.cs" Line="11" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
